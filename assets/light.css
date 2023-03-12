@@ -1,0 +1,28 @@
+/* Light theme */
+body {
+    background-color: #eeeeee;
+}
+
+h1 {
+    color: #222222;
+    text-align: center;
+}
+
+.button {
+    background-color: #222222;
+    color: #dddddd;
+}
+
+.button:hover {
+    background-color: #333333;
+    color: #dddddd;
+}
+
+.card {
+    background-color: #dddddd;
+    color: #222222;
+}
+
+.subtitle {
+    color: #222222;
+}

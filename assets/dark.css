@@ -1,0 +1,32 @@
+/* Dark theme */
+body {
+    background-color: #333333;
+}
+
+h1 {
+    color: #dddddd;
+    text-align: center;
+}
+
+.button {
+    background-color: #dddddd;
+    color: #222222;
+}
+
+.button:hover {
+    background-color: #cccccc;
+    color: #222222;
+}
+
+.card {
+    background-color: #222222;
+    color: #dddddd;
+}
+
+.subtitle {
+    color: #dddddd;
+}
+
+.dash-table-container .dash-spreadsheet-container {
+    color: #222222;
+}

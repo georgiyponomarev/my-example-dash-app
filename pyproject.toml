@@ -1,0 +1,24 @@
+[tool.poetry]
+name = "covid"
+version = "0.1.0"
+description = ""
+authors = ["georgiyponomarev <georgiy.ponomarev@quantori.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.8"
+dash = "^2.7.1"
+pandas = "^1.5.2"
+plotly = "^5.12.0"
+kaleido = "0.1.0"
+numpy = "^1.24.2"
+lifelines = "^0.27.4"
+dash-bootstrap-components = "^1.3.1"
+flask-caching = "^2.0.2"
+redis = "^4.5.1"
+scikit-survival = "^0.19.0.post1"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
